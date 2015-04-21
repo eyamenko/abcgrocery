@@ -1,4 +1,4 @@
-# ABCGrocery Swing/JDBC application
+# ABCGrocery Java/Swing/JDBC application
 
 ## Prerequisites
 
