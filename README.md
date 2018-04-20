@@ -1,6 +1,6 @@
-# ABCGrocery Java/Swing/JDBC application
+## ABCGrocery Java/Swing/JDBC application
 
-## Prerequisites
+### Prerequisites
 
 * JDK 7
 * Apache Derby
